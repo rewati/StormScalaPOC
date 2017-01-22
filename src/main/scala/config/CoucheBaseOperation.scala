@@ -7,7 +7,7 @@ import java.util.UUID
 import com.couchbase.client.CouchbaseClient
 
 /**
-  * Created by Rewati Raman (rewati.raman@hart.com).
+  * Created by Rewati Raman (rewati.raman@gmail.com).
   */
 object CoucheBaseOperation {
 
