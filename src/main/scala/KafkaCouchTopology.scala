@@ -6,7 +6,7 @@ import _root_.bolt.CouchBaseBolt
 import config.KafkaConfiguration
 
 /**
-  * Created by Rewati Raman (rewati.raman@hart.com).
+  * Created by Rewati Raman (rewati.raman@gmail.com).
   */
 object KafkaCouchTopology extends App with KafkaConfiguration{
   val builder: TopologyBuilder = new TopologyBuilder()
