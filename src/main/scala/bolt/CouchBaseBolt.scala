@@ -4,7 +4,7 @@ import backtype.storm.tuple.Tuple
 import config.CoucheBaseOperation
 
 /**
-  * Created by Rewati Raman (rewati.raman@hart.com).
+  * Created by Rewati Raman (rewati.raman@gmail.com).
   */
 class CouchBaseBolt extends BaseBolt  {
 
