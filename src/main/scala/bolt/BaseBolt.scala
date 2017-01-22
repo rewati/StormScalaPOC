@@ -9,7 +9,7 @@ import backtype.storm.topology.base.BaseRichBolt
 import backtype.storm.tuple.Fields
 
 /**
-  * Created by Rewati Raman (rewati.raman@hart.com).
+  * Created by Rewati Raman (rewati.raman@gmail.com).
   */
 trait BaseBolt extends BaseRichBolt {
 
