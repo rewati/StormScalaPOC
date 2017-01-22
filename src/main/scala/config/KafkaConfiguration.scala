@@ -6,7 +6,7 @@ import backtype.storm.spout.SchemeAsMultiScheme
 import storm.kafka.{BrokerHosts, SpoutConfig, StringScheme, ZkHosts}
 
 /**
-  * Created by Rewati Raman (rewati.raman@hart.com).
+  * Created by Rewati Raman (rewati.raman@gmail.com).
   */
 trait KafkaConfiguration {
   protected val hosts: BrokerHosts  = new ZkHosts("localhost:2181","/brokers")
