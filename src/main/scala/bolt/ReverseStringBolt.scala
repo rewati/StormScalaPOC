@@ -3,7 +3,7 @@ package bolt
 import backtype.storm.tuple.{Tuple, Values}
 
 /**
-  * Created by Rewati Raman (rewati.raman@hart.com).
+  * Created by Rewati Raman (rewati.raman@gmail.com).
   */
 class ReverseStringBolt extends BaseBolt{
 
